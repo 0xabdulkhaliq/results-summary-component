@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [To be posted ⏳](#links) |
+  | Solution URL: | [RESULTS SUMMARY COMPONENT 🎯 [ ACCESSIBLE - BEM - VANILLA CSS3 ]](https://www.frontendmentor.io/solutions/results-summary-component-accessible-bem-vanilla-css3-D1GG5zijOk) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/results-summary-component/](https://0xabdulkhalid.github.io/results-summary-component/) |
   |||
 
